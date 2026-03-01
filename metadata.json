@@ -1,0 +1,5 @@
+{
+  "name": "M&F Online Store",
+  "description": "Premium Bangladeshi eCommerce marketplace with multi-language support and app-like mobile UI.",
+  "requestFramePermissions": ["geolocation"]
+}
